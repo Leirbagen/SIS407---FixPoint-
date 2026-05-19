@@ -42,8 +42,8 @@ Some other interfaces:
 
 
 <img width="250" height="500" alt="18" src="https://github.com/user-attachments/assets/929392e6-8772-4239-8167-bd0a698f4ad9" />
-<img width="393" height="852" alt="23" src="https://github.com/user-attachments/assets/26433cba-d0eb-4e2e-865c-7cb663a6a824" />
-<img width="393" height="852" alt="27" src="https://github.com/user-attachments/assets/253be7ec-507a-4bac-8d79-55c12c8acd73" />
+<img width="250" height="500" alt="23" src="https://github.com/user-attachments/assets/26433cba-d0eb-4e2e-865c-7cb663a6a824" />
+<img width="250" height="500" alt="27" src="https://github.com/user-attachments/assets/253be7ec-507a-4bac-8d79-55c12c8acd73" />
 
 
 
