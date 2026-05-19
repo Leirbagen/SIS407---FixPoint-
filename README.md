@@ -22,7 +22,7 @@ Key Design Features
 <img width="250" height="500" alt="9" src="https://github.com/user-attachments/assets/f4032815-edfd-4d05-87e8-7e65bf63804f" />
 <img width="250" height="500" alt="10" src="https://github.com/user-attachments/assets/133581ef-2047-490a-b815-6e5d41a04cd9" />
 <img width="250" height="500" alt="13" src="https://github.com/user-attachments/assets/f932ff6d-7513-4eea-8865-03d7c5b0a0d3" />
-<img width="250" height="500" alt="18" src="https://github.com/user-attachments/assets/929392e6-8772-4239-8167-bd0a698f4ad9" />
+
 
 
 Some other interfaces: 
@@ -38,6 +38,13 @@ Some other interfaces:
 <img width="250" height="500" alt="29" src="https://github.com/user-attachments/assets/33fc9f1d-0f1b-4788-bf2a-a5bf39213a59" />
 <img width="250" height="500" alt="32" src="https://github.com/user-attachments/assets/9f36fcc7-e4bc-46ff-a0f1-c78fc5112a40" />
 <img width="250" height="500" alt="33" src="https://github.com/user-attachments/assets/a4db4071-00db-4606-b72f-2d03f8fae7f6" />
+
+
+
+<img width="250" height="500" alt="18" src="https://github.com/user-attachments/assets/929392e6-8772-4239-8167-bd0a698f4ad9" />
+<img width="393" height="852" alt="23" src="https://github.com/user-attachments/assets/26433cba-d0eb-4e2e-865c-7cb663a6a824" />
+<img width="393" height="852" alt="27" src="https://github.com/user-attachments/assets/253be7ec-507a-4bac-8d79-55c12c8acd73" />
+
 
 
 
