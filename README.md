@@ -7,6 +7,8 @@ Fix Point is a conceptual mobile application designed to connect users with tech
 
 
 Link to the project: https://www.figma.com/design/QoBsXXF8B7fGq6uWGdkVB8/FixPoint?node-id=0-1&t=ZYJycA8FX5ZyaeLm-1
+
+
 Project is also at the repository (.fig)
 
 
